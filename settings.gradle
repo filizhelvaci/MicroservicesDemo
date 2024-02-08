@@ -1,1 +1,6 @@
 rootProject.name = 'MicroservicesDemo'
+include 'ServiceA'
+include 'ServiceB'
+include 'ServiceC'
+
+
